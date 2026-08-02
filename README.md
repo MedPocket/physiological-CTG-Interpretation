@@ -25,4 +25,4 @@ File hướng dẫn PDF gốc `Physiological-CTG-Interpretation_tieng-Viet.pdf` 
 
 Bản quyền thuộc © MedPocket.
 
-Chúng tôi không sở hữu một số nội dung. Dự án được chia sẻ với mục đích giáo dục. Nếu có thắc mắc về bản quyền hoặc muốn gỡ bỏ nội dung, hãy liên lạc với chúng tôi ngay.
+_Chúng tôi không sở hữu một số nội dung. Dự án được chia sẻ với mục đích giáo dục. Nếu có thắc mắc về bản quyền hoặc muốn gỡ bỏ nội dung, hãy liên lạc với chúng tôi ngay._
