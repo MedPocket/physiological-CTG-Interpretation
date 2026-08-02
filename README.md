@@ -1,20 +1,28 @@
-# Ultraso
+# Physiological CTG Interpretation (Tiếng Việt)
 
-**Ultraso** is built using the [**Blume**](https://useblume.dev) documentation framework (powered by Astro and Vite).
+Tài liệu hướng dẫn theo dõi và phiên giải nhịp tim thai - cơn co tử cung (CTG) dựa trên sinh lý học (Physiological CTG Interpretation), được xây dựng và phát triển sử dụng [**Blume**](https://useblume.dev) (phát triển trên nền tảng Astro và Vite).
 
-## Develop locally
+Bản dịch tiếng Việt do Hà Nhân và Cộng sự thực hiện.
 
-To get started, make sure you have [Node.js](https://nodejs.org) and [Bun](https://bun.com) installed on your system. Then, follow these steps:
+## Chạy dự án dưới local
+
+Để bắt đầu, hãy đảm bảo rằng bạn đã cài đặt [Node.js](https://nodejs.org) và [Bun](https://bun.sh) trên máy tính của mình. Sau đó thực hiện các lệnh sau:
 
 ```bash
-git clone https://github.com/MedPocket/ultraso
-cd ultraso
+git clone https://github.com/MedPocket/physiological-CTG-Interpretation
+cd physiological-CTG-Interpretation
 bun install
 bun dev
 ```
 
-Open your web browser and navigate to http://localhost:4321/ultraso.
+Mở trình duyệt web của bạn và truy cập địa chỉ http://localhost:4321/physiological-CTG-Interpretation.
+
+## Tài liệu gốc PDF
+
+File hướng dẫn PDF gốc `Physiological-CTG-Interpretation_tieng-Viet.pdf` đã được di chuyển vào thư mục `/public` để người dùng có thể tải về trực tiếp từ trang tài liệu.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+Bản quyền thuộc © MedPocket.
+
+_Chúng tôi không sở hữu một số nội dung. Dự án được chia sẻ với mục đích giáo dục. Nếu có thắc mắc về bản quyền hoặc muốn gỡ bỏ nội dung, hãy liên lạc với chúng tôi ngay._

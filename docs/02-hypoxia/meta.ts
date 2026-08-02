@@ -1,9 +1,9 @@
 import { defineMeta } from "blume";
 
 export default defineMeta({
-  title: "Kỹ thuật quét siêu âm",
+  title: "Sinh lý học Thiếu oxy",
   icon: "activity",
   order: 2,
-  collapsed: true,
-  pages: ["dau-do", "toi-uu-hinh-anh"],
+  collapsed: false,
+  pages: ["physiology-and-management"],
 });

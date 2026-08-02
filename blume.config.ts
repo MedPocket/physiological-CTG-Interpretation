@@ -1,8 +1,8 @@
 import { defineConfig } from "blume";
 
 export default defineConfig({
-  title: "Ultraso",
-  description: "Tài liệu về siêu âm lâm sàng.",
+  title: "CTG Sinh lý",
+  description: "Tài liệu về phiên giải CTG dựa trên sinh lý học lâm sàng.",
 
   feedback: false,
 
@@ -36,6 +36,6 @@ export default defineConfig({
       process.env.NETLIFY === "true"
         ? process.env.URL || "https://ultraso.netlify.app"
         : "https://medpocket.github.io",
-    base: process.env.NETLIFY === "true" ? "/" : "/ultraso",
+    base: process.env.NETLIFY === "true" ? "/" : "/physiological-CTG-Interpretation",
   },
 });
