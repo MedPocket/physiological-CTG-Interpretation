@@ -9,13 +9,13 @@ Bản dịch tiếng Việt do Hà Nhân và Cộng sự thực hiện.
 Để bắt đầu, hãy đảm bảo rằng bạn đã cài đặt [Node.js](https://nodejs.org) và [Bun](https://bun.sh) trên máy tính của mình. Sau đó thực hiện các lệnh sau:
 
 ```bash
-git clone https://github.com/MedPocket/ultraso
-cd ultraso
+git clone https://github.com/MedPocket/physiological-CTG-Interpretation
+cd physiological-CTG-Interpretation
 bun install
 bun dev
 ```
 
-Mở trình duyệt web của bạn và truy cập địa chỉ http://localhost:4321/ultraso.
+Mở trình duyệt web của bạn và truy cập địa chỉ http://localhost:4321/physiological-CTG-Interpretation.
 
 ## Tài liệu gốc PDF
 
@@ -23,4 +23,6 @@ File hướng dẫn PDF gốc `Physiological-CTG-Interpretation_tieng-Viet.pdf` 
 
 ## License
 
-Dự án này được cấp phép theo [MIT License](LICENSE). Bản quyền gốc của tài liệu thuộc về Physiological-CTG.com / ACOG.
+Bản quyền thuộc © MedPocket.
+
+Chúng tôi không sở hữu một số nội dung. Dự án được chia sẻ với mục đích giáo dục. Nếu có thắc mắc về bản quyền hoặc muốn gỡ bỏ nội dung, hãy liên lạc với chúng tôi ngay.
