@@ -18,30 +18,24 @@ export default defineConfig({
     hideDefaultLocalePrefix: true,
   },
 
+  seo: {
+    og: {
+      site: false,
+      logo: false,
+    },
+  },
+
   theme: {
     accent: "blue",
     radius: "md",
-    mode: "system",
+    mode: "light",
     fonts: {
-      body: {
-        name: "Be Vietnam Pro",
-        provider: "fontsource",
-        fallback: "sans",
-      },
-      display: {
-        name: "Be Vietnam Pro",
-        provider: "fontsource",
-        fallback: "sans",
-      },
+      body: "inter",
+      display: "inter",
     },
   },
 
   deployment: {
-    output: "static",
-    site:
-      process.env.NETLIFY === "true"
-        ? process.env.URL || "https://ultraso.netlify.app"
-        : "https://medpocket.github.io",
     base: process.env.NETLIFY === "true" ? "/" : "/physiological-CTG-Interpretation",
   },
 });
